@@ -1,0 +1,24 @@
+{
+  "name": "@mhld/tsconfig",
+  "version": "0.1.0",
+  "description": "Shared Typescript config for my project",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "effectdoplera/tsconfig",
+  "author": "Mikhail Danshin",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config"
+  ]
+}
